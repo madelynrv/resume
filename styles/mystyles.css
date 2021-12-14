@@ -1,0 +1,19 @@
+.italics{
+    font-style: italic;
+}
+
+a:link{
+    text-decoration: underline;
+}
+
+a:hover{
+    color: rgb(111, 190, 111);
+}
+
+li{
+    color: rgb(83, 83, 83);
+}
+
+h1{
+    border: 2px white dotted;
+}

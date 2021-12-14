@@ -1,0 +1,84 @@
+.common{
+    background-color: black;
+    position: absolute;
+    color: white;
+}
+
+.tab1{
+    border: solid white 2px;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    height: 1000px;
+}
+
+.tab2{
+    border: solid white 2px;
+    top: 1005px;
+    left: 0px;
+    right: 0px;
+    height: 1000px;
+}
+
+.tab3{
+    border: solid white 2px;
+    top: 2010px;
+    left: 0px;
+    right: 0px;
+    height: 1000px;
+}
+
+.tab4{
+    border: solid white 2px;
+    top: 3015px;
+    left: 0px;
+    right: 0px;
+    height: 1000px;
+}
+
+.navigation{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+}
+
+.navtext{
+    float: right;
+    list-style-type: none;
+}
+
+.tableau{
+    top: 110px;
+    left: 5px;
+    right: 5px;
+    height: 4015px;
+}
+
+.footer{
+    left: 5px;
+    right: 5px;
+    top: 4120px;
+    height: 50px;
+    text-align: center;
+    border: solid white 2px;
+}
+
+.maintitle{
+    text-align: center;
+    font-size: larger;
+}
+
+a{
+    color:white;
+}
+
+a:hover{
+    color: rgb(111, 190, 111);
+}
+
+.caption{
+    float: left;
+    font-style: italic;
+    font-size: large;
+}
